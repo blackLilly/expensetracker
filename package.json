@@ -1,5 +1,6 @@
 {
-  "name": "expenses",
+  "homepage": "https://blackLilly.github.io/expensetracker",
+  "name": "expensetracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
